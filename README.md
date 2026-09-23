@@ -135,9 +135,9 @@ while True:
     led.toggle()
     sleep(0.5)
 ```
-# Observation
+# Output
 
-<img width="1244" height="1600" alt="WhatsApp Image 2026-09-23 at 1 55 51 PM" src="https://github.com/user-attachments/assets/c2f263f8-34e1-4ef9-9679-2dee87c008be" />
+![Output](exp7.jpeg)
 
 
 # Result
